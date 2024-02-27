@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cowin-dashboard/static/css/main.6a979b94.css",
+    "main.js": "/cowin-dashboard/static/js/main.e89bbf22.js",
+    "static/js/453.4cc7372e.chunk.js": "/cowin-dashboard/static/js/453.4cc7372e.chunk.js",
+    "index.html": "/cowin-dashboard/index.html",
+    "main.6a979b94.css.map": "/cowin-dashboard/static/css/main.6a979b94.css.map",
+    "main.e89bbf22.js.map": "/cowin-dashboard/static/js/main.e89bbf22.js.map",
+    "453.4cc7372e.chunk.js.map": "/cowin-dashboard/static/js/453.4cc7372e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a979b94.css",
+    "static/js/main.e89bbf22.js"
+  ]
+}
